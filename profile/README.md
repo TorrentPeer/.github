@@ -1,3 +1,3 @@
-# IMPORTANT!!!
-
-## This repository is no longer supported, use <a href="https://github.com/torrentpier">torrentpier</a> repository instead
+Official repository: https://github.com/torrentpier/torrentpier<br>
+Official forum: https://torrentpier.com<br>
+Telegram: https://t.me/torrentpier<br>
